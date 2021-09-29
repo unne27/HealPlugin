@@ -10,13 +10,16 @@
     <!-- Name, Description, and URL are used in plugin.yml -->
     <name>SpigotPlugin</name>
     <description>A heal plugin</description>
-    <url>http://sgray.me/project/spigotplugin</url>
+    <url>http://unne27.com</url>
 
     <licenses>
         <license>
             <name>Zlib License</name>
             <url>http://opensource.org/licenses/Zlib</url>
-            <comments>Copyright (c) 2014 Shaila Gray
+            <comments>
+                I did use a template to get started with this plugin:
+                
+                Copyright (c) 2014 Shaila Gray
             This software is provided 'as-is', without any express or implied
             warranty. In no event will the authors be held liable for any damages
             arising from the use of this software.
