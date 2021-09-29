@@ -9,7 +9,7 @@
     <!-- Plugin Information -->
     <!-- Name, Description, and URL are used in plugin.yml -->
     <name>SpigotPlugin</name>
-    <description>Example of a Spigot plugin using Maven</description>
+    <description>A heal plugin</description>
     <url>http://sgray.me/project/spigotplugin</url>
 
     <licenses>
