@@ -1,0 +1,14 @@
+name: HealPlugin
+version: 1.0
+description: A plugin where you can heal another player or yourself.
+author: 
+website: http://unne27.com
+
+main: io.github.unne27.Heal.HealPlugin
+
+commands:
+    heal:
+        description: Heal a player
+        permission: Healplugin.Heal
+        usage: /<command>
+permissions: {}
